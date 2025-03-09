@@ -1,4 +1,4 @@
-# Rifki Bike Rentals ✨
+# Rifki's Bike Rentals ✨
 
 ## Setup Environment - Shell/Terminal
 ```
