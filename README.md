@@ -1,15 +1,13 @@
-# Rifki's Bike Rentals ✨
+# Proyek Machine Learning
 
-## Setup Environment - Shell/Terminal
-```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
-pipenv install
-pipenv shell
-pip install -r requirements.txt
-```
+## Clustering
+Method yang dipakai
+1. Algoritma KMeans
+2. Algoritma Agglomerative
+3. Algoritma GMM
 
-## Run steamlit app
-```
-streamlit run dashboard.py
-```
+## Klasifikasi
+Model yang dipakai
+1. Model K-Nearest Neighbors (KNN)
+2. Model Random Forest
+3. Model Decision Tree
