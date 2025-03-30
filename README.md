@@ -1,5 +1,8 @@
 # Proyek Machine Learning
 
+## Dataset
+Dataset yang digunakan berjudul **Beverage Sales** yang bersumber dari Kaggle (https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales/data)
+
 ## Clustering
 Method yang dipakai
 1. Algoritma KMeans
